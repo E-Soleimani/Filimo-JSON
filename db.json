@@ -84,6 +84,11 @@
       "id": "5",
       "src": "https://static.cdn.asset.filimo.com/flmt/mov_146023_155520.jpg?width=165&quality=85&secret=1uLHimMWMoHrt1cgKWNahQ",
       "alt": "series_slider5"
+    },
+    {
+      "id": "6",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_146020_155522.jpg?width=165&quality=85&secret=pPOjr2zW0w3B4SIqTMdHDg",
+      "alt": "series_slider5"
     }
   ],
   "bestOfMoviesSlider": [
@@ -111,6 +116,11 @@
       "id": "5",
       "src": "https://static.cdn.asset.filimo.com/flmt/mov_145138_152883.jpg?width=165&quality=85&secret=TV8OQYZ3fA_QJ3HIeUzT-A",
       "alt": "movies_slider5"
+    },
+    {
+      "id": "6",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_144888_152523.jpg?width=165&quality=85&secret=mYfXtrwli9h_6yxCzIzKFg",
+      "alt": "movies_slider5"
     }
   ],
   "movieDetails": [
@@ -119,8 +129,8 @@
       "name": "قطب شمال",
       "director": "امیر محمود یکتا",
       "genre": { "genre1": "درام", "genre2": "عاشقانه" },
-      "description": "مرگ، قصه همایون و دیوارهای زندان را خاتمه می دهد؛ اما نوبت به بازگشت می رسد؛ بازگشتی سراسر خشم و نفرت…"
-       
+      "description": "مرگ، قصه همایون و دیوارهای زندان را خاتمه می دهد؛ اما نوبت به بازگشت می رسد؛ بازگشتی سراسر خشم و نفرت…",
+      "logo": "https://static.cdn.asset.filimo.com/flmt/mov_logo_146002_179.png?width=400&quality=85&secret=fE8w1UsRDDqcH6fVNRvC4g"
     }
   ],
   "episodes": [
@@ -148,86 +158,91 @@
       "id": "1",
       "name": "پایتخت",
       "src": "https://static.cdn.asset.filimo.com/flmt/mov_srl_11933_1-b.jpg?width=165&quality=85&secret=TTVEtvEcur7pOH0IgDJRhw",
-      "alt":"free_movie1"
+      "alt": "free_movie1"
     },
     {
       "id": "2",
       "name": "عقرب",
       "src": "https://static.cdn.asset.filimo.com/flmt/mov_639_995-b.jpg?width=165&quality=85&secret=U80oEojsjv7n8SfJm-7rMQ",
-      "alt":"free_movie2"
+      "alt": "free_movie2"
     },
     {
       "id": "3",
       "name": "ملکه گدایان",
       "src": "https://static.cdn.asset.filimo.com/flmt/mov_srl_41017_932-b.jpg?width=165&quality=85&secret=iCCdAosM5VpIaQc_eFKHAA",
-      "alt":"free_movie3"
+      "alt": "free_movie3"
     },
     {
       "id": "4",
       "name": "شاهرگ",
-      "src": "https://static.cdn.asset.filimo.com/flmt/mov_16676_331-b.jpg?width=165&quality=85&secret=4Q0sOKsHPQtVOTLs4kEvgQ"
-      ,
-      "alt":"free_movie4"
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_16676_331-b.jpg?width=165&quality=85&secret=4Q0sOKsHPQtVOTLs4kEvgQ",
+      "alt": "free_movie4"
     },
     {
       "id": "5",
       "name": "بالش ها",
       "src": "https://static.cdn.asset.filimo.com/flmt/mov_srl_12645_1-b.jpg?width=165&quality=85&secret=T7uBxOIOJlPMJv1V6Ltu7Q",
-      "alt":"free_movie5"
+      "alt": "free_movie5"
     },
     {
       "id": "6",
       "name": "حماسه دره شیلر",
       "src": "https://static.cdn.asset.filimo.com/flmt/mov_17637_916-b.jpg?width=165&quality=85&secret=Y1OuacY3TaQCzdi43YaqzA",
-      "alt":"free_movie6"
+      "alt": "free_movie6"
     },
     {
       "id": "7",
       "name": "شب های مافیای 2",
       "src": "https://static.cdn.asset.filimo.com/flmt/mov_srl_82690_962-b.jpg?width=165&quality=85&secret=zzPDwF-hvHdgEpy62Nqxog",
-      "alt":"free_movie7"
+      "alt": "free_movie7"
     },
     {
       "id": "8",
       "name": "مردم معمولی",
       "src": "https://static.cdn.asset.filimo.com/flmt/mov_srl_82692_194-b.jpg?width=165&quality=85&secret=XlHlDu3cATALZhmyuhFrXQ",
-      "alt":"free_movie8"
+      "alt": "free_movie8"
     },
     {
       "id": "9",
       "name": "دیرین دیرین",
       "src": "https://static.cdn.asset.filimo.com/flmt/mov_37557_65703.jpg?width=165&quality=85&secret=sFeug_xad-7HaV_WbrClGQ",
-      "alt":"free_movie9"
+      "alt": "free_movie9"
     },
     {
       "id": "10",
       "name": "سال های دور از خانه",
       "src": "https://static.cdn.asset.filimo.com/flmt/mov_srl_26097_1-b.jpg?width=165&quality=85&secret=zKNS5MCO36dP6R20MWmPCA",
-      "alt":"free_movie10"
+      "alt": "free_movie10"
     },
     {
       "id": "11",
       "name": "دراکولا",
       "src": "https://static.cdn.asset.filimo.com/flmt/mov_srl_82686_882-b.jpg?width=165&quality=85&secret=1_5lgLmmEx8UpnWb6jHY1A",
-      "alt":"free_movie11"
+      "alt": "free_movie11"
     },
     {
       "id": "12",
       "name": "سجاده آتش",
       "src": "https://static.cdn.asset.filimo.com/flmt/mov_42788_258-b.jpg?width=165&quality=85&secret=DFw_JKP6DOvyxBxiKkpD3Q",
-      "alt":"free_movie12"
+      "alt": "free_movie12"
     },
     {
       "id": "13",
       "name": "شب های مافیای ",
       "src": "https://static.cdn.asset.filimo.com/flmt/mov_srl_36180_850-b.jpg?width=165&quality=85&secret=nTriltwu8OPuYXx9nxE6Vg",
-      "alt":"free_movie13"
+      "alt": "free_movie13"
     },
     {
       "id": "14",
       "name": "خوب بد جلف: رادیواکتیو ",
       "src": "https://static.cdn.asset.filimo.com/flmt/mov_srl_41499_219-b.jpg?width=165&quality=85&secret=L56LMdyMy6j0qUEywlywKQ",
-      "alt":"free_movie14"
+      "alt": "free_movie14"
+    },
+    {
+      "id": "15",
+      "name": "رفیق فابریک",
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_7389_194-b.jpg?width=165&quality=85&secret=9OzwrFV1bRD0UH1xSASxVA",
+      "alt": "free_movie14"
     }
   ],
   "tickets": [
@@ -258,6 +273,13 @@
       "director": "حمد حمزه‌ای",
       "genre": { "genre1": "درام", "genre2": "خانوادگی" },
       "src": "https://static.cdn.asset.filimo.com/flmt/mov_145651_153960.jpg?width=165&quality=85&secret=JtAKLUZifkEz-Q3q0pR5Nw"
+    },
+    {
+      "id": "5",
+      "name": "جنگل پرتقال",
+      "director": "کارگردان: آرمان خوانساریان",
+      "genre": { "genre1": "درام", "genre2": "عاشقانه" },
+      "src": "https://static.cdn.asset.filimo.com/flmt/mov_144428_153502.jpg?width=165&quality=85&secret=0UrlXum_7lpjQYj_30sg4w"
     }
   ],
   "comments": [
@@ -316,27 +338,34 @@
       "username": "aref",
       "comment": "خیلی برنامه خوبی هست و خیلی سریال متنوع داره"
     },
-    { "id": "12", "username": "Manidriver", "comment": "فیلیمو راضیوم ازت😍😍" }
+    { "id": "12",
+      "username": "Manidriver",
+      "comment": "فیلیمو راضیوم ازت😍😍" }
   ],
   "faq": [
     {
       "id": "1",
-      "number":"one",
+      "number": "one",
       "question": "آیا می‌توانم فیلم‌های موجود در فیلیمو را دانلود کنم؟",
       "answer": "بله، شما می‌توانید همه فیلم‌ و سریال‌های فیلیمو را داخل خود اپلیکیشن فیلیمو دانلود کنید و برای زمان‌هایی که اینترنت ندارید یا در سفر، هواپیما و قطار آ‌ن‌ها را تماشا کنید. برای دانلود هم از طریق رایانه و هم از طریق خود اپلیکیشن فیلیمو می‌توانید اقدام‌کنید. برای جزییات بیشتر می‌توانید فیلم‌های آموزشی مربوط به دانلود از طریق سایت و دانلود از طریق اپلیکیشن را تماشا کنید. "
     },
     {
       "id": "2",
-      "number":"two",
+      "number": "two",
       "question": "آیا فیلیمو برای خارج از ایران در دسترس است؟",
       "answer": "خیر. درحال حاضر تماشای فیلیمو فقط در داخل کشور فعال است و امکان تماشا برای افراد خارج از کشور فعال نیست."
     },
     {
       "id": "3",
-      "number":"three",
+      "number": "three",
       "question": "آیا برای تماشای فیلم‌های اکران آنلاین، باید اشتراک بخرم؟",
       "answer": "تماشای فیلم‌های اکران آنلاین مانند تماشا در سینمای واقعی است؛ یعنی برای دیدن هر فیلم که در اکران آنلاین است باید بلیت تهیه کنید و به جای رفتن به سالن سینما، 8 ساعت فرصت دارید که آن فیلم را از داخل خانه تماشا کنید."
+    },
+    {
+      "id": "4",
+      "number": "four",
+      "question": "از کجا می‌توانم نرم‌افزار اندروید یا iOS فیلیمو را دانلود کنم؟",
+      "answer": "برای نصب نرم‌افزار اندرویدی فیلیمو می‌توانید ازطریق کافه بازار یا مایکت اقدام به دانلود کنید. یا می‌توانید روی گزینه روبرو بزنید و به‌طور مستقیم فایل نرم‌افزار را دریافت کنید. (دانلود مستقیم نرم‌افزار اندروید) برای دانلود نرم‌افزار iOS فیلیمو نیز کافیست روی گزینه روبرو بزنید و به‌طور مستقیم فایل نرم‌افزار را دریافت کنید. (دانلود مستقیم نرم‌افزار iOS)"
     }
-
   ]
 }
