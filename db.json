@@ -11,14 +11,14 @@
       "id": "2",
       "title": "فیلیمومدرسه",
       "href": "./index.html",
-      "src": ".Icons/filimo-school.svg",
+      "src": "./Icons/filimo-school.svg",
       "alt": "nav_svg2"
     },
     {
       "id": "3",
       "title": "جستجو",
       "href": "./index.html",
-      "src": ".Icons/search.svg",
+      "src": "./Icons/search.svg",
       "alt": "nav_svg3"
     }
   ],
